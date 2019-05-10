@@ -7,4 +7,4 @@ while True:
   motor.left()
   sleep(5)
   motor.stop()
-  sleep(5)
+  
